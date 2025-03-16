@@ -2,6 +2,8 @@
 
 A simple "Whack-a-Mole" style game where you click on the meme face as it pops up from different holes. Features a leaderboard powered by Supabase.
 
+Play the game here: https://abdurrafay2004.github.io/Whack-a-pratyay/
+
 ## How to Play
 
 1. Download or clone this repository
